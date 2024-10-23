@@ -57,6 +57,7 @@ Once the Docker containers are up and running, the application should be accessi
 - **User Profiles:** View and edit user profiles, including avatars.
 - **Posts and Comments:** Create, view, and delete posts.
 - **Interactions:** Like and comment posts.
+- **GraphQL:** The main service that handles all the application's functionalities interacts with the User's, Post's, and Interaction's services through GraphQL.
 
 ## Accessing the MinIO Dashboard
 
